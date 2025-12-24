@@ -1,70 +1,103 @@
 <div align="center">
 
-<!-- 1. 动态头部打字机效果 -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=B026FF&vCenter=true&multiline=true&width=500&height=80&lines=Hi,+I'm+K-zhaochao;Move+fast+and+break+things." alt="Typing SVG" />
+<!-- 1. 动态头部：保持原样，这部分很稳定 -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=B026FF&background=00000000&vCenter=true&multiline=true&width=750&height=100&lines=Hi,+I'm+K-zhaochao;System.out.println(%22Hello+World%22);Move+fast+and+break+things." alt="Typing SVG" />
 
-<!-- 2. MathJax 风格格言 -->
-<h3>
-  <samp>
-    $$ \texttt{Move fast and break things.} $$
-  </samp>
-</h3>
+<!-- 2. 视觉中心：GitHub 官方托管 GIF -->
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="border-radius: 8px; border: 1px solid #B026FF;" alt="Cyberpunk Animation" />
+</p>
+
+<!-- 3. 个人信息栏：使用表格强制对齐，不再杂乱 -->
+<!-- 样式改为 flat-square，更紧凑，更像系统状态栏 -->
+<table align="center" style="border:none">
+    <tr>
+        <td align="center" style="border:none">
+            <a href="mailto:1727369245@qq.com">
+                <img src="https://img.shields.io/badge/Email-1727369245%40qq.com-black?style=flat-square&logo=gmail&logoColor=white&color=2e003e" />
+            </a>
+        </td>
+        <td align="center" style="border:none">
+            <img src="https://img.shields.io/badge/Focus-Java_Backend-black?style=flat-square&logo=openjdk&logoColor=white&color=4a0072" />
+        </td>
+        <td align="center" style="border:none">
+            <img src="https://img.shields.io/badge/Motto-Break_Things-black?style=flat-square&logo=hackthebox&logoColor=white&color=6a1b9a" />
+        </td>
+    </tr>
+</table>
+
+<!-- 4. ASCII Slogan -->
+<pre>
+<code style="color: #B026FF">
+  __  __                  _____         _   
+ |  \/  |                |  ___|       | |  
+ | .  . | _____   _____  | |_ __ _ ___| |_ 
+ | |\/| |/ _ \ \ / / _ \ |  _/ _` / __| __|
+ | |  | | (_) \ V /  __/ | || (_| \__ \ |_ 
+ \_|  |_/\___/ \_/ \___| \_| \__,_|___/\__|
+                                           
+  _                   _    _____ _     _                 
+ & \   | |               | |   | |   (_)                
+  \ \  | |__  _ __ ___   | |   | |__  _ _ __   __ _ ___ 
+   > > | '_ \| '__/ _ \  | |   | '_ \| | '_ \ / _` / __|
+  / /  | |_) | | |  __/  | |   | | | | | | | | (_| \__ \
+ /_/   |_.__/|_|  \___|  \_/   |_| |_|_|_| |_|\__, |___/
+                                               __/ |    
+                                              |___/     
+</code>
+</pre>
 
 <br/>
 
-<!-- 3. 个性化栏目 -->
-<p>
-    🌱 <strong>Currently Learning:</strong> Java Backend Development<br/>
-    📫 <strong>Contact Me:</strong> <a href="mailto:1727369245@qq.com">1727369245@qq.com</a>
-</p>
-
-<br/>
-
-<!-- 4. 技术栈徽章 (赛博朋克风格配色建议使用 for-the-badge 样式) -->
-<h3>🛠️ Tech Stack</h3>
-
-<!-- 编程语言 -->
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-<!-- 前端框架 -->
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-</p>
-
-<!-- 后端与数据库 -->
-<p>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
-<!-- 工具 -->
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-<br/>
-
-<!-- 5. 动态统计组件 (Theme: radical 契合赛博朋克紫) -->
-<h3>📊 GitHub Stats</h3>
-
-<p>
-  <!-- 综合统计 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=K-zhaochao&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="K-zhaochao's GitHub stats" />
-</p>
-<p>
-  <!-- 连续打卡 -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=K-zhaochao&theme=radical&hide_border=true&background=0D1117" alt="K-zhaochao's streak" />
+<!-- 5. 技术栈 -->
+<h3 align="center">⚡ <samp>Tech_Stack_Protocol</samp> ⚡</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,js,react,vue,mysql,redis,docker,linux,git&perline=10&theme=dark" />
+  </a>
 </p>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=K-zhaochao&style=flat-square&color=blueviolet" alt="Profile views" />
+<!-- 6. 【重点修改】开发者控制台 (替代裂图的统计表) -->
+<!-- 既然自动统计图会挂，我们手动做一个“环境面板”，这永远不会挂，而且非常帅 -->
+<h3 align="center">🛠️ <samp>Dev_Environment</samp></h3>
+
+<table align="center">
+    <tr>
+        <td align="center" width="90">
+            <img src="https://img.shields.io/badge/OS-Linux-black?style=plastic&logo=linux&color=000000" />
+        </td>
+        <td align="center" width="90">
+             <img src="https://img.shields.io/badge/IDE-IntelliJ-black?style=plastic&logo=intellij-idea&color=000000" />
+        </td>
+        <td align="center" width="90">
+             <img src="https://img.shields.io/badge/Cloud-Aliyun-black?style=plastic&logo=alibaba-cloud&color=000000" />
+        </td>
+    </tr>
+     <tr>
+        <td align="center" width="90">
+            <img src="https://img.shields.io/badge/Tools-Docker-black?style=plastic&logo=docker&color=000000" />
+        </td>
+        <td align="center" width="90">
+             <img src="https://img.shields.io/badge/DB-MySQL-black?style=plastic&logo=mysql&color=000000" />
+        </td>
+        <td align="center" width="90">
+             <img src="https://img.shields.io/badge/Shell-Zsh-black?style=plastic&logo=warp&color=000000" />
+        </td>
+    </tr>
+</table>
+
+<br/>
+
+<!-- 7. 底部：仿终端页脚 -->
+<div style="border-top: 1px solid #30363d; margin-top: 20px; padding-top: 10px;">
+    <p align="center">
+        <samp>root@K-zhaochao:~$ exit</samp>
+    </p>
+    <p align="center">
+        <img src="https://komarev.com/ghpvc/?username=K-zhaochao&style=flat-square&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views" />
+    </p>
+</div>
 
 </div>
