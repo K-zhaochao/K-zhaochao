@@ -1,15 +1,15 @@
 <div align="center">
 
-<!-- 1. 动态头部：保持原样，这部分很稳定 -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=B026FF&background=00000000&vCenter=true&multiline=true&width=750&height=100&lines=Hi,+I'm+K-zhaochao;System.out.println(%22Hello+World%22);Move+fast+and+break+things." alt="Typing SVG" />
+<!-- 1. 动态打字机头部 -->
+<!-- 宽度设置为 750px，确保 Java 代码显示完整，不会换行 -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=B026FF&background=00000000&vCenter=true&multiline=true&width=750&height=100&lines=Hi,+I'm+K-zhaochao;System.out.println(%22Hello+World%22)" alt="Typing SVG" />
 
-<!-- 2. 视觉中心：GitHub 官方托管 GIF -->
+<!-- 2. 视觉中心：赛博朋克 GIF (GitHub 官方源，稳定) -->
 <p align="center">
     <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="border-radius: 8px; border: 1px solid #B026FF;" alt="Cyberpunk Animation" />
 </p>
 
-<!-- 3. 个人信息栏：使用表格强制对齐，不再杂乱 -->
-<!-- 样式改为 flat-square，更紧凑，更像系统状态栏 -->
+<!-- 3. 个人徽章栏 (使用 HTML 表格强制整齐对齐) -->
 <table align="center" style="border:none">
     <tr>
         <td align="center" style="border:none">
@@ -18,7 +18,7 @@
             </a>
         </td>
         <td align="center" style="border:none">
-            <img src="https://img.shields.io/badge/Focus-Java_Backend-black?style=flat-square&logo=openjdk&logoColor=white&color=4a0072" />
+            <img src="https://img.shields.io/badge/Status-Java_Backend-black?style=flat-square&logo=openjdk&logoColor=white&color=4a0072" />
         </td>
         <td align="center" style="border:none">
             <img src="https://img.shields.io/badge/Motto-Break_Things-black?style=flat-square&logo=hackthebox&logoColor=white&color=6a1b9a" />
@@ -26,7 +26,8 @@
     </tr>
 </table>
 
-<!-- 4. ASCII Slogan -->
+<!-- 4. ASCII 艺术字 Slogan -->
+<!-- 使用 pre 和 code 标签是为了防止 Markdown 自动压缩空格，导致字符画错位 -->
 <pre>
 <code style="color: #B026FF">
   __  __                  _____         _   
@@ -49,7 +50,7 @@
 
 <br/>
 
-<!-- 5. 技术栈 -->
+<!-- 5. 技术栈图标 -->
 <h3 align="center">⚡ <samp>Tech_Stack_Protocol</samp> ⚡</h3>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -59,31 +60,31 @@
 
 <br/>
 
-<!-- 6. 【重点修改】开发者控制台 (替代裂图的统计表) -->
-<!-- 既然自动统计图会挂，我们手动做一个“环境面板”，这永远不会挂，而且非常帅 -->
-<h3 align="center">🛠️ <samp>Dev_Environment</samp></h3>
+<!-- 6. 开发环境控制台 -->
+<!-- 替换了不稳定的统计图，改用静态徽章展示开发环境，永不裂图且整齐 -->
+<h3 align="center">🛠️ <samp>System_Properties</samp></h3>
 
-<table align="center">
+<table align="center" style="border:none">
     <tr>
-        <td align="center" width="90">
+        <td align="center" width="100" style="border:none">
             <img src="https://img.shields.io/badge/OS-Linux-black?style=plastic&logo=linux&color=000000" />
         </td>
-        <td align="center" width="90">
+        <td align="center" width="100" style="border:none">
              <img src="https://img.shields.io/badge/IDE-IntelliJ-black?style=plastic&logo=intellij-idea&color=000000" />
         </td>
-        <td align="center" width="90">
+        <td align="center" width="100" style="border:none">
              <img src="https://img.shields.io/badge/Cloud-Aliyun-black?style=plastic&logo=alibaba-cloud&color=000000" />
         </td>
     </tr>
      <tr>
-        <td align="center" width="90">
-            <img src="https://img.shields.io/badge/Tools-Docker-black?style=plastic&logo=docker&color=000000" />
+        <td align="center" width="100" style="border:none">
+            <img src="https://img.shields.io/badge/Container-Docker-black?style=plastic&logo=docker&color=000000" />
         </td>
-        <td align="center" width="90">
-             <img src="https://img.shields.io/badge/DB-MySQL-black?style=plastic&logo=mysql&color=000000" />
+        <td align="center" width="100" style="border:none">
+             <img src="https://img.shields.io/badge/Data-MySQL-black?style=plastic&logo=mysql&color=000000" />
         </td>
-        <td align="center" width="90">
-             <img src="https://img.shields.io/badge/Shell-Zsh-black?style=plastic&logo=warp&color=000000" />
+        <td align="center" width="100" style="border:none">
+             <img src="https://img.shields.io/badge/Power-100%25-black?style=plastic&logo=electricity&color=000000" />
         </td>
     </tr>
 </table>
