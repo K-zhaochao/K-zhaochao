@@ -1,15 +1,11 @@
 <div align="center">
 
-<!-- 1. 动态打字机头部 -->
-<!-- 宽度设置为 750px，确保 Java 代码显示完整，不会换行 -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=B026FF&background=00000000&vCenter=true&multiline=true&width=750&height=100&lines=Hi,+I'm+K-zhaochao;System.out.println(%22Hello+World%22)" alt="Typing SVG" />
 
-<!-- 2. 视觉中心：赛博朋克 GIF (GitHub 官方源，稳定) -->
 <p align="center">
     <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="border-radius: 8px; border: 1px solid #B026FF;" alt="Cyberpunk Animation" />
 </p>
 
-<!-- 3. 个人徽章栏 (使用 HTML 表格强制整齐对齐) -->
 <table align="center" style="border:none">
     <tr>
         <td align="center" style="border:none">
@@ -36,21 +32,12 @@
  | |\/| |/ _ \ \ / / _ \ |  _/ _` / __| __|
  | |  | | (_) \ V /  __/ | || (_| \__ \ |_ 
  \_|  |_/\___/ \_/ \___| \_| \__,_|___/\__|
-                                           
-  _                   _    _____ _     _                 
- & \   | |               | |   | |   (_)                
-  \ \  | |__  _ __ ___   | |   | |__  _ _ __   __ _ ___ 
-   > > | '_ \| '__/ _ \  | |   | '_ \| | '_ \ / _` / __|
-  / /  | |_) | | |  __/  | |   | | | | | | | | (_| \__ \
- /_/   |_.__/|_|  \___|  \_/   |_| |_|_|_| |_|\__, |___/
-                                               __/ |    
-                                              |___/     
+                                             
 </code>
 </pre>
 
 <br/>
 
-<!-- 5. 技术栈图标 -->
 <h3 align="center">⚡ <samp>Tech_Stack_Protocol</samp> ⚡</h3>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -60,8 +47,7 @@
 
 <br/>
 
-<!-- 6. 开发环境控制台 -->
-<!-- 替换了不稳定的统计图，改用静态徽章展示开发环境，永不裂图且整齐 -->
+
 <h3 align="center">🛠️ <samp>System_Properties</samp></h3>
 
 <table align="center" style="border:none">
@@ -91,7 +77,6 @@
 
 <br/>
 
-<!-- 7. 底部：仿终端页脚 -->
 <div style="border-top: 1px solid #30363d; margin-top: 20px; padding-top: 10px;">
     <p align="center">
         <samp>root@K-zhaochao:~$ exit</samp>
