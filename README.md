@@ -81,9 +81,15 @@
     <p align="center">
         <samp>root@K-zhaochao:~$ exit</samp>
     </p>
+   <p align="center">
+        <a href="https://afdian.com/a/draven323">
+            <img src="https://img.shields.io/badge/Support-爱发电-B026FF?style=flat-square&logo=github-sponsors&logoColor=white" alt="Sponsor on Afdian" />
+        </a>
+    </p>
     <p align="center">
         <img src="https://komarev.com/ghpvc/?username=K-zhaochao&style=flat-square&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views" />
-    </p>
+    </p> 
+    
 </div>
 
 </div>
