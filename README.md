@@ -1,95 +1,113 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=B026FF&background=00000000&vCenter=true&multiline=true&width=750&height=100&lines=Hi,+I'm+K-zhaochao;System.out.println(%22Hello+World%22)" alt="Typing SVG" />
+<!-- 页眉：动态渐变 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=K-zhaochao&fontAlign=50&fontAlignY=35&fontColor=ffffff&desc=Code%20is%20the%20New%20World&descAlign=50&descAlignY=55&animation=fadeIn" width="100%" />
+
+<!-- 动态打字机效果 -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=B026FF&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Hi,+I'm+K-zhaochao;Java+Backend+Developer+in+the+making;Building+things+one+commit+at+a+time" alt="Typing SVG" />
+
+<!-- 联系方式与状态标签 -->
+<div align="center">
+  <a href="mailto:Draven323@qq.com">
+    <img src="https://img.shields.io/badge/Email-Draven323%40qq.com-B026FF?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Status-Java_Backend-4a0072?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=K-zhaochao&label=PROFILE+VIEWS&color=6a1b9a&style=for-the-badge" />
+</div>
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="border-radius: 8px; border: 1px solid #B026FF;" alt="Cyberpunk Animation" />
+  我是 <b>K-zhaochao</b>，一名计算机系的在校本科生。<br/>
+  正专注于 <b>Java 后端开发</b>，致力于在充满变数的代码世界里通过“创造”构建秩序。<br/>
+  目前正在自学分布式架构与高性能方案。
 </p>
 
-<table align="center" style="border:none">
+<!-- 角色档案 -->
+<details open>
+  <summary><b>📂 查看开发者档案</b></summary>
+  <br/>
+  <table align="center">
     <tr>
-        <td align="center" style="border:none">
-            <a href="mailto:1727369245@qq.com">
-                <img src="https://img.shields.io/badge/Email-1727369245%40qq.com-black?style=flat-square&logo=gmail&logoColor=white&color=2e003e" />
-            </a>
-        </td>
-        <td align="center" style="border:none">
-            <img src="https://img.shields.io/badge/Status-Java_Backend-black?style=flat-square&logo=openjdk&logoColor=white&color=4a0072" />
-        </td>
-        <td align="center" style="border:none">
-            <img src="https://img.shields.io/badge/Motto-Break_Things-black?style=flat-square&logo=hackthebox&logoColor=white&color=6a1b9a" />
-        </td>
+      <td align="center"><b>代号</b></td>
+      <td align="center">K-zhaochao</td>
+      <td align="center"><b>职业</b></td>
+      <td align="center">学生 / 开发者</td>
     </tr>
-</table>
+    <tr>
+      <td align="center"><b>主属性</b></td>
+      <td align="center">后端 / 创造欲望 / 极速进化</td>
+      <td align="center"><b>当前任务</b></td>
+      <td align="center">寻找 Java 实习机会 / 钻研苍穹外卖项目</td>
+    </tr>
+    <tr>
+      <td align="center"><b>目标</b></td>
+      <td align="center">掌握高并发处理 / 冲击一线大厂</td>
+      <td align="center"><b>座右铭</b></td>
+      <td align="center">Break things to learn how to fix them.</td>
+    </tr>
+  </table>
+</details>
 
-<!-- 4. ASCII 艺术字 Slogan -->
-<!-- 使用 pre 和 code 标签是为了防止 Markdown 自动压缩空格，导致字符画错位 -->
-<pre>
-<code style="color: #B026FF">
-  __  __                  _____         _   
- |  \/  |                |  ___|       | |  
- | .  . | _____   _____  | |_ __ _ ___| |_ 
- | |\/| |/ _ \ \ / / _ \ |  _/ _` / __| __|
- | |  | | (_) \ V /  __/ | || (_| \__ \ |_ 
- \_|  |_/\___/ \_/ \___| \_| \__,_|___/\__|
-                                             
-</code>
-</pre>
+<hr/>
 
-<br/>
+<h3 align="center">⚡ 技术栈协议 (Tech Stack Protocol) ⚡</h3>
 
-<h3 align="center">⚡ <samp>Tech_Stack_Protocol</samp> ⚡</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,js,react,vue,mysql,redis,docker,linux,git&perline=10&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,docker,linux,git,github,idea,postman,vue,react&perline=6&theme=dark" />
   </a>
 </p>
 
-<br/>
-
-
-<h3 align="center">🛠️ <samp>System_Properties</samp></h3>
-
-<table align="center" style="border:none">
-    <tr>
-        <td align="center" width="100" style="border:none">
-            <img src="https://img.shields.io/badge/OS-Linux-black?style=plastic&logo=linux&color=000000" />
-        </td>
-        <td align="center" width="100" style="border:none">
-             <img src="https://img.shields.io/badge/IDE-IntelliJ-black?style=plastic&logo=intellij-idea&color=000000" />
-        </td>
-        <td align="center" width="100" style="border:none">
-             <img src="https://img.shields.io/badge/Cloud-Aliyun-black?style=plastic&logo=alibaba-cloud&color=000000" />
-        </td>
-    </tr>
-     <tr>
-        <td align="center" width="100" style="border:none">
-            <img src="https://img.shields.io/badge/Container-Docker-black?style=plastic&logo=docker&color=000000" />
-        </td>
-        <td align="center" width="100" style="border:none">
-             <img src="https://img.shields.io/badge/Data-MySQL-black?style=plastic&logo=mysql&color=000000" />
-        </td>
-        <td align="center" width="100" style="border:none">
-             <img src="https://img.shields.io/badge/Power-100%25-black?style=plastic&logo=electricity&color=000000" />
-        </td>
-    </tr>
+<table align="center">
+  <tr>
+    <th align="center">领域</th>
+    <th align="center">技术栈</th>
+    <th align="center">掌握程度</th>
+  </tr>
+  <tr>
+    <td align="center"><b>后端</b></td>
+    <td align="center">Java / SpringBoot / SpringMVC / MyBatis</td>
+    <td align="center">核心开发语言，熟悉常用框架与设计模式</td>
+  </tr>
+  <tr>
+    <td align="center"><b>数据库</b></td>
+    <td align="center">MySQL / Redis</td>
+    <td align="center">了解索引优化、缓存应用与持久化机制</td>
+  </tr>
+  <tr>
+    <td align="center"><b>基础设施</b></td>
+    <td align="center">Linux / Docker / Git</td>
+    <td align="center">熟悉环境部署、版本控制与容器化操作</td>
+  </tr>
 </table>
 
-<br/>
+<hr/>
 
-<div style="border-top: 1px solid #30363d; margin-top: 20px; padding-top: 10px;">
+<!-- 贡献贪吃蛇 -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/K-zhaochao/K-zhaochao/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/K-zhaochao/K-zhaochao/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/K-zhaochao/K-zhaochao/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+<hr/>
+
+<h3 align="center">🏆 荣誉与成就</h3>
+<p align="center">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=K-zhaochao&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" />
+</p>
+
+<hr/>
+
+<div style="margin-top: 20px;">
     <p align="center">
-        <samp>root@K-zhaochao:~$ exit</samp>
+        <samp>root@K-zhaochao:~$ rm -rf fear_and_hesitation</samp><br/>
+        <samp>root@K-zhaochao:~$ ./start_brilliant_future.sh</samp>
     </p>
-   <p align="center">
-        <a href="https://afdian.com/a/draven323">
-            <img src="https://img.shields.io/badge/Support-爱发电-B026FF?style=flat-square&logo=github-sponsors&logoColor=white" alt="Sponsor on Afdian" />
-        </a>
-    </p>
-    <p align="center">
-        <img src="https://komarev.com/ghpvc/?username=K-zhaochao&style=flat-square&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views" />
-    </p> 
-    
 </div>
+
+<!-- 页脚：动态渐变 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient" width="100%" />
 
 </div>
