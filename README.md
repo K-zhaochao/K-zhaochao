@@ -40,7 +40,7 @@
     </tr>
     <tr>
       <td align="center"><b>目标</b></td>
-      <td align="center">掌握高并发处理 / 冲击一线大厂</td>
+      <td align="center">掌握高并发处理 / 冲击优秀公司</td>
       <td align="center"><b>座右铭</b></td>
       <td align="center">Break things to learn how to fix them.</td>
     </tr>
