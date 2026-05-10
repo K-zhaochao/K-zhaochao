@@ -9,7 +9,7 @@
 <!-- 联系方式与状态标签 -->
 <div align="center">
   <a href="mailto:Draven323@qq.com">
-    <img src="https://img.shields.io/badge/Email-Draven323%40qq.com-B026FF?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-draven323%40matehub.top-B026FF?style=for-the-badge&logo=maildotru&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Status-Java_Backend-4a0072?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://komarev.com/ghpvc/?username=K-zhaochao&label=PROFILE+VIEWS&color=6a1b9a&style=for-the-badge" />
