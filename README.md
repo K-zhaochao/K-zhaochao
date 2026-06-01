@@ -18,7 +18,6 @@
 <p align="center">
   我是 <b>K-zhaochao</b>，一名计算机系的在校本科生。<br/>
   正专注于 <b>Java 后端开发</b>，致力于在充满变数的代码世界里通过“创造”构建秩序。<br/>
-  目前正在自学分布式架构与高性能方案。
 </p>
 
 <!-- 角色档案 -->
@@ -34,9 +33,9 @@
     </tr>
     <tr>
       <td align="center"><b>主属性</b></td>
-      <td align="center">后端 / 创造欲望 / 极速进化</td>
+      <td align="center">全栈 / 创造欲望 / 迭代进化</td>
       <td align="center"><b>当前任务</b></td>
-      <td align="center">寻找 Java 实习机会 / 钻研苍穹外卖项目</td>
+      <td align="center">寻找 Java 实习机会 / 学习微服务 / 巩固基础</td>
     </tr>
     <tr>
       <td align="center"><b>目标</b></td>
@@ -53,7 +52,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,docker,linux,git,github,idea,postman,vue,react&perline=6&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,docker,linux,git,github,idea,maven,javascript,vue&perline=6&theme=dark" />
   </a>
 </p>
 
@@ -90,15 +89,6 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/K-zhaochao/K-zhaochao/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
-
-<hr/>
-
-<h3 align="center">🏆 荣誉与成就</h3>
-<p align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=K-zhaochao&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" />
-</p>
-
-<hr/>
 
 <div style="margin-top: 20px;">
     <p align="center">
